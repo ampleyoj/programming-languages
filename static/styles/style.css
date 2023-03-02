@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+p {
+    margin: 30px;
+}
+.container {
+    text-align: center;
+}
+.head {
+    margin-left: 100px;
+}
+.image {
+    text-align: center;
+}
